@@ -10,11 +10,11 @@
 
 登录页：
 
-![login](https://github.com/kangmuyang/greendot-client-windows/raw/main/screen/login.png)
+<img src="https://github.com/GG4mida/greendot-client-windows/blob/main/screen/login.png?raw=true" width="360" alt="登录页"/>
 
 首页：
 
-![home](https://github.com/kangmuyang/greendot-client-windows/raw/main/screen/home.png)
+<img src="https://github.com/GG4mida/greendot-client-windows/blob/main/screen/home.png?raw=true" width="360" alt="首页"/>
 
 ### 介绍
 
